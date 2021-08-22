@@ -23,7 +23,7 @@ No video demo available 😭
 ```sh
 git clone https://github.com/Parides/droneConsoleSimulator.git
 ```
-#### Clone the repository
+#### Install Java
 
 Ensure that you have Java Version ? on your machine
 [Official Java Site](https://www.java.com/)
